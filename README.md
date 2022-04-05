@@ -1,13 +1,3 @@
-### **_Contact Details_**
-<p align='center'>
-<a href="https://t.me/talentman2017">
-  <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="mailto:daniel.gaw.network@gmail.com">
-  <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;&nbsp;
-</p>
-
 ### **_Skills_**
 <table>
   <tr>
